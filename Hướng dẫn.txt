@@ -1,3 +1,8 @@
 ﻿Thiết kế khung border Layout 
 => Chú ý khi mở rộng đối tượng thay đổi là CENTER nhé, còn để thành phần trong thay đổi một FreesDesign hoặc
 Grid Desgined,Flow Designed nhé.
+CHÚ Ý:
++ Nếu muốn kéo dãn có 2 cách
+- Cách 1: Bao bên ngoài đó là một Panel thiết lập Border Layout và trong panel kéo dãn cứ thiết kế Free Desgin
+- Cách 2: Bao bên ngoài đó là một Panel nhưng kéo xác mép và bên ngoài nữa là border Layout ok nhé.
+ 
