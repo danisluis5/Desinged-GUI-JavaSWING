@@ -1,0 +1,3 @@
+﻿Thiết kế khung border Layout 
+=> Chú ý khi mở rộng đối tượng thay đổi là CENTER nhé, còn để thành phần trong thay đổi một FreesDesign hoặc
+Grid Desgined,Flow Designed nhé.

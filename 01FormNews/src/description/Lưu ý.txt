@@ -1,0 +1,3 @@
+﻿Xác định thành phần dãn =>  gọi đó là CENTER
+Dùng Space thêm hoặc bớt không gian với borderlayout
+Dùng Horizontal Relizable để kéo dãn ra nhé.
