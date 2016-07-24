@@ -1,0 +1,6 @@
+﻿Bước 1: Chúng ta có border để bao phủ khu vực nội dung
+Bước 2: Để phân chia khu vực cho dễ thì các bạn chọn FreeDesign sau đó sắp xếp các vùng cho hợp lý
+=> từ đó set lại là BorderLayout. Để chỉnh sữa kích thước ta bấm ngược lại nhé.
+=> Nếu hai panel xếp chồng lên nhau thì phải có một cái là BorderLayout
+
+
