@@ -11,7 +11,10 @@
 ![alt tag](https://github.com/danisluis5/GUI/blob/master/01FormNews/3.png)
 ![alt tag](https://github.com/danisluis5/GUI/blob/master/01FormNews/4.png)
 
-
-
+- Project: 01FormSearch
+- Description: This is a tutorials about design GUI Website. But it 's very simple when you desiged gui swing in resposibily.
+- Trick: Notice relizable horizontal or relizable vertical
+![alt tag](https://github.com/danisluis5/GUI/blob/master/01FormSearch/1.png)
+![alt tag](https://github.com/danisluis5/GUI/blob/master/01FormSearch/2.png)
 
 
