@@ -34,4 +34,7 @@
 - Problem : No processing mouse click.
 ![alt tag](https://github.com/danisluis5/GUI/blob/master/02FormLogin/1.png)
 
-
+- Project: 02FormNew
+- Description: Design GUI Swing Java
+- Tricks: Soft of panel in JFrame.
+![alt tag](https://github.com/danisluis5/GUI/blob/master/02FormNews/1.png)
