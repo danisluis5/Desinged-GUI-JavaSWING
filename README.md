@@ -23,4 +23,9 @@
 ![alt tag](https://github.com/danisluis5/GUI/blob/master/01FormInformation/1.png)
 ![alt tag](https://github.com/danisluis5/GUI/blob/master/01FormInformation/2.png)
 
+- Project: 01FormTestQuit
+- Description: Notice two probleam, the first is setting Icon with JFrame and the second setting Button Group[Other Component] to allow Radio Button together.
+- Tricks: There are a little attributes,propertise but you can't setting with drop, coding in source.java.
+![alt tag](https://github.com/danisluis5/GUI/blob/master/01ProgramTestQuit/1.png)
+
 
