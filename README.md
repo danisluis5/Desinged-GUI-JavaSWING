@@ -44,3 +44,4 @@
 - Tricks: BorderLayout => relizable horizontal(vertical or both only direction = center)
 - Problem: Design again gui
 ![alt tag](https://github.com/danisluis5/GUI/blob/master/Shop%20Manager/1.png)
+![alt tag](https://github.com/danisluis5/GUI/blob/master/Shop%20Manager/2.png)
