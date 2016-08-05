@@ -17,4 +17,10 @@
 ![alt tag](https://github.com/danisluis5/GUI/blob/master/01FormSearch/1.png)
 ![alt tag](https://github.com/danisluis5/GUI/blob/master/01FormSearch/2.png)
 
+- Project: o01FormInformation
+- Description: See a Image, Absolute Layout or Free Layout. Divide Image into more part and setting panel.
+- Tricks: Using photoshop cc to designd GUI, but you will use it when it 's very important.
+![alt tag](https://github.com/danisluis5/GUI/blob/master/01FormInformation/1.png)
+![alt tag](https://github.com/danisluis5/GUI/blob/master/01FormInformation/2.png)
+
 
