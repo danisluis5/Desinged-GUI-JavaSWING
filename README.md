@@ -28,4 +28,10 @@
 - Tricks: There are a little attributes,propertise but you can't setting with drop, coding in source.java.
 ![alt tag](https://github.com/danisluis5/GUI/blob/master/01ProgramTestQuit/1.png)
 
+- Project: 02FormLogin
+- Description: Setting JFrame without has title bar on top of JFrame.Setting setLocationRelativeTo(this) default application in middle screen.
+- Tricks: Writting code
+- Problem : No processing mouse click.
+![alt tag](https://github.com/danisluis5/GUI/blob/master/02FormLogin/1.png)
+
 
