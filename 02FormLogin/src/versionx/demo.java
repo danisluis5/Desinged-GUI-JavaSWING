@@ -7,7 +7,6 @@ package versionx;
 
 import java.awt.Point;
 import java.awt.event.MouseEvent;
-import java.awt.event.MouseListener;
 import java.awt.event.MouseMotionListener;
 
 /**
@@ -21,6 +20,7 @@ public class demo extends javax.swing.JFrame {
      * Creates new form demo
      */
     public demo() {
+        this.setLocationRelativeTo(this);
         initComponents();
     }
 
