@@ -36,6 +36,6 @@
 
 - Project: 02FormNew
 - Description: Design GUI Swing Java
-- Tricks: Soft of panel in JFrame.
+- Tricks: Soft of panel in JFrame Using Border Layout.
 ![alt tag](https://github.com/danisluis5/GUI/blob/master/02FormNews/1.png)
 ![alt tag](https://github.com/danisluis5/GUI/blob/master/02FormNews/2.png)
