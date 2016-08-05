@@ -39,3 +39,8 @@
 - Tricks: Soft of panel in JFrame Using Border Layout.
 ![alt tag](https://github.com/danisluis5/GUI/blob/master/02FormNews/1.png)
 ![alt tag](https://github.com/danisluis5/GUI/blob/master/02FormNews/2.png)
+- Project: ShopManager
+- Description: Using Layout include border Layout,Free Layout(Space is change),GridLayout(Space of component is default) Like Flow Layout. It has difference between Grid Layout or Flow Layout is component is relizable, flow Layout setting content inside to center,left,right. Asual we using positive is center with flow Layout.
+- Tricks: BorderLayout => relizable horizontal(vertical or both only direction = center)
+- Problem: Design again gui
+![alt tag](https://github.com/danisluis5/GUI/blob/master/Shop%20Manager/1.png)
